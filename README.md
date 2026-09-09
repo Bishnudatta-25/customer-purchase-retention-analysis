@@ -121,6 +121,18 @@ Created a 3-page interactive Power BI dashboard:
 - Revenue per customer by marketing channel
 - Order volume by marketing channel
 
+### Executive Overview
+
+![Executive Overview](screenshots/01_executive-overview.png)
+
+### Customer Retention & Value
+
+![Customer Retention & Value](screenshots/02_customer-retaintion-and-value.png)
+
+### Product & Marketing Performance
+
+![Product & Marketing Performance](screenshots/03_product-and-marketing-performance.png)
+
 ### Phase 5 — Business Insights ✅
 
 Key findings and recommendations were developed from the SQL analysis and Power BI dashboard.
@@ -168,13 +180,42 @@ The initial audit identified:
 ## Repository Structure
 
 ```text
-data/
-documentation/
-excel/
-sql/
-powerbi/
-screenshots/
-insights/
+Customer-Purchase-Retention-Analysis/
+│
+├── data/
+│   ├── raw/
+│   └── cleaned/
+│
+├── documentation/
+│   ├── customer_purchase_retention_data_dictionary_v1.xlsx
+│   └── data_quality-report.md
+|   
+│
+├── excel/
+│   └── Customer_Retention_Analysis.xlsx
+│
+├── sql/
+│   ├── 01_data_validation.sql/
+│   ├── 02_monthly_revenue_analysis.sql/
+│   ├── 03_category_analysis.sql/
+│   ├── 04_product_analysis.sql/
+│   ├── 05_customer_analysis.sql/
+│   ├── 06_cohort_retention_analysis.sql/
+│   ├── 07_customer_value_analysis.sql/
+│   └── 08_marketing_analysis.sql/
+│
+├── powerbi/
+│   └── customer_purchase_retention_analysis-PowerBI.pbix
+│
+├── screenshots/
+│   ├── 01_executive-overview.png
+│   ├── 02_customer-retaintion-and-value.png
+│   └── 03_product-and-marketing-performance.png
+│
+├── insights/
+│   └── business_insights.md
+│
+└── README.md
 ```
 ## Project Workflow
 
@@ -236,3 +277,32 @@ Business Recommendations
 - Revenue concentration analysis
 - Risk identification
 - Data-driven recommendations
+
+## Business Insights & Recommendations
+
+### Customer Retention
+Returning customers represent 67.9% of customers but generate 87.27% of total revenue, making customer retention a major revenue driver.
+
+**Recommendation:** Focus on repeat-purchase campaigns, loyalty programs, personalized recommendations, and early post-purchase engagement.
+
+### Customer Value
+Approximately 25% of customers generate 69.5% of total revenue.
+
+**Recommendation:** Prioritize high-value customers through VIP experiences, personalized offers, and targeted retention strategies.
+
+### Product & Category Concentration
+Electronics contributes approximately 70.18% of total revenue, while the Top 10 products contribute approximately 85.97%.
+
+**Recommendation:** Protect high-performing products while developing secondary categories to reduce revenue concentration risk.
+
+### Marketing Performance
+Organic is the strongest revenue-performing marketing channel and generates the highest revenue per customer.
+
+**Recommendation:** Continue investing in high-performing acquisition channels while evaluating marketing performance using customer value and acquisition costs.
+
+### Cohort Retention
+Cohort analysis shows a substantial decline in customer activity after the initial purchase.
+
+**Recommendation:** Strengthen second-purchase and early lifecycle campaigns to improve customer retention and purchase frequency.
+
+For detailed analysis, see `insights/business_insights.md`.
