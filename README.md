@@ -81,149 +81,64 @@ Cleaning steps included:
 
 ### Phase 3 — SQL Analysis ✅
 
-Completed using MySQL.
+Completed:
 
-The SQL analysis focused on revenue performance, product and category
-performance, customer behavior, customer value, retention, and marketing
-channel effectiveness.
+- Revenue performance analysis
+- Monthly revenue and MoM growth analysis
+- Revenue by product category
+- Top-performing products
+- Customer purchase frequency analysis
+- Returning vs one-time customer analysis
+- Customer value segmentation
+- Revenue quartile analysis
+- Marketing channel performance
+- Cohort retention analysis
+- Customer retention analysis
 
-#### Business KPI Analysis
+### Phase 4 — Power BI Dashboard ✅
 
-Calculated:
+Created a 3-page interactive Power BI dashboard:
 
-- Total Revenue
-- Total Orders
-- Total Customers
-- Total Quantity Sold
-- Average Order Value
+**Page 1 — Executive Overview**
+- Revenue KPIs
+- Monthly revenue trend
+- Revenue by category
+- Marketing channel performance
+- Executive-level business summary
 
-#### Monthly Revenue Analysis
+**Page 2 — Customer Retention & Value**
+- Returning vs one-time customers
+- Customer segmentation
+- Customer value segmentation
+- Revenue contribution by customer segment
+- Customer value vs purchase frequency
+- Cohort retention heatmap
 
-Analyzed:
-
-- Monthly Revenue
-- Monthly Orders
-- Monthly Quantity Sold
-- Average Order Value
-- Previous Month Revenue
-- Month-over-Month Revenue Growth
-
-Key findings:
-
-- Highest revenue month: January 2024
-- Lowest revenue month: August 2024
-- Highest MoM growth: December 2025
-- Largest MoM decline: February 2024
-
-#### Category Analysis
-
-Analyzed revenue and sales performance across product categories.
-
-Key findings:
-
-- Electronics was the highest-performing category.
-- Electronics generated 70.18% of total revenue.
-- Category-level Average Order Value and Revenue per Unit were also analyzed.
-
-#### Product Analysis
-
-Analyzed individual product performance using:
-
-- Total Revenue
-- Total Orders
-- Revenue per Order
+**Page 3 — Product & Marketing Performance**
+- Revenue by category
 - Top 10 products by revenue
-- Revenue contribution of the Top 10 products
+- Revenue by marketing channel
+- Revenue per customer by marketing channel
+- Order volume by marketing channel
 
-Key finding:
+### Phase 5 — Business Insights ✅
 
-- The Top 10 products generated 85.97% of total revenue.
+Key findings and recommendations were developed from the SQL analysis and Power BI dashboard.
 
-#### Customer Analysis
+Major areas analyzed:
 
-Analyzed customer purchasing behavior using:
+- Revenue performance
+- Customer retention
+- Customer value
+- Product concentration
+- Category performance
+- Marketing channel performance
+- Cohort retention
+- Business risks and opportunities
 
-- One-time vs Returning Customers
-- Customer revenue
-- Customer purchase frequency
-- Customer segments
-- Customer lifetime
-- Revenue-based customer quartiles
+Detailed findings are available in:
 
-Key findings:
-
-- Returning customers: 2,615 (67.90%)
-- One-time customers: 1,236 (32.10%)
-- High-value customers represented 24.98% of customers.
-- High-value customers generated 69.50% of total revenue.
-
-High-value customers averaged:
-
-- 3.69 orders per customer
-- ₹85,046.19 revenue per customer
-- ₹29,751.45 revenue per order
-
-#### Cohort Retention Analysis
-
-Performed cohort analysis based on customers' first purchase month.
-
-The analysis included:
-
-- First Order Date
-- Cohort Month
-- Order Month
-- Months Since First Purchase
-- Active Customers
-- Cohort Size
-- Retention Percentage
-- Cohort Retention Matrix
-
-This analysis was used to understand how customer retention changes
-over time after the first purchase.
-
-#### Marketing Channel Analysis
-
-Compared marketing channels using:
-
-- Customer Count
-- Order Count
-- Total Revenue
-- Average Order Value
-- Revenue per Customer
-
-Key finding:
-
-- Organic was the strongest channel by total customers, orders,
-  revenue, and revenue per customer.
-
-#### SQL Techniques Used
-
-- `SELECT`
-- `WHERE`
-- `GROUP BY`
-- `ORDER BY`
-- Aggregate Functions
-- `COUNT(DISTINCT)`
-- `SUM()`
-- `AVG()`
-- `ROUND()`
-- `CASE`
-- Common Table Expressions (CTEs)
-- Window Functions
-- `LAG()`
-- `NTILE()`
-- Date Functions
-- Cohort Analysis
-- Revenue and customer segmentation
-
-### Phase 4 — Power BI Dashboard ⏳
-
-Not started
-
-### Phase 5 — Business Insights ⏳
-
-Not started
-
+`insights/business_insights.md`
 ## Data Quality Findings
 
 The initial audit identified:
