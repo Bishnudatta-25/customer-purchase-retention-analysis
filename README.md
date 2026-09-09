@@ -175,3 +175,64 @@ sql/
 powerbi/
 screenshots/
 insights/
+```
+## Project Workflow
+
+```text
+Raw Dataset
+     ↓
+Data Audit
+     ↓
+Data Cleaning & Validation
+     ↓
+SQL Analysis
+     ↓
+Customer & Revenue Analysis
+     ↓
+Power BI Dashboard
+     ↓
+Business Insights
+     ↓
+Business Recommendations
+```
+## Skills Demonstrated
+
+### Data Cleaning
+- Data quality auditing
+- Duplicate detection and removal
+- Missing-value handling
+- Invalid-value detection
+- Data standardization
+- Business-rule validation
+
+### SQL
+- Aggregations and grouping
+- JOIN operations
+- Common Table Expressions (CTEs)
+- Window functions
+- Customer segmentation
+- Revenue analysis
+- Month-over-month analysis
+- Cohort analysis
+- Customer retention analysis
+- Revenue quartile analysis
+
+### Power BI
+- Data modeling
+- DAX measures
+- KPI development
+- Interactive dashboards
+- Customer segmentation
+- Cohort retention visualization
+- Conditional formatting
+- Slicers and cross-filtering
+- Business storytelling
+
+### Business Analytics
+- Customer retention analysis
+- Customer value analysis
+- Product performance analysis
+- Marketing channel analysis
+- Revenue concentration analysis
+- Risk identification
+- Data-driven recommendations
