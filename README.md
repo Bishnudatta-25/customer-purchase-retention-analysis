@@ -136,6 +136,19 @@ Major areas analyzed:
 - Cohort retention
 - Business risks and opportunities
 
+## Key Findings
+
+- Total revenue: **₹117.72M**
+- Total orders: **9,992**
+- Total customers: **3,851**
+- Returning customers: **67.9%**
+- Returning customers generate **87.27% of total revenue**
+- High-value customers represent approximately **25% of customers but generate 69.5% of revenue**
+- Electronics contributes approximately **70.18% of total revenue**
+- Top 10 products contribute approximately **85.97% of total revenue**
+- Organic is the highest-revenue marketing channel
+- Cohort analysis shows a substantial decline in customer activity after the initial purchase
+
 Detailed findings are available in:
 
 `insights/business_insights.md`
