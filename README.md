@@ -3,8 +3,7 @@
 ## Project Overview
 
 This project analyzes customer purchasing behavior for an e-commerce business
-to understand customer retention, purchasing patterns, product performance,
-and geographic performance.
+to understand customer retention, purchasing patterns, product performance.
 
 The project follows a complete data analytics workflow:
 
@@ -18,7 +17,6 @@ The e-commerce company wants to understand:
 - How many customers return to make additional purchases?
 - Which products and categories generate the most revenue?
 - Which customer segments are most valuable?
-- Which geographic markets perform best?
 - Which marketing channels attract customers?
 
 ## Dataset
@@ -30,7 +28,6 @@ Key dimensions include:
 - Customer
 - Order
 - Product
-- Geography
 - Payment Method
 - Marketing Channel
 - Customer Type
