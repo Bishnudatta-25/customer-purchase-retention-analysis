@@ -1,0 +1,5 @@
+customer_segment,customer_count,customer_percentage,total_revenue,revenue_percentage,avg_revenue_per_customer
+"HIGH VALUE",962,24.98,81814435.70,69.50,85046.19
+"MEDIUM-HIGH VALUE",963,25.01,23667950.20,20.10,24577.31
+"MEDIUM-LOW VALUE",963,25.01,9259950.90,7.87,9615.73
+"LOW VALUE",963,25.01,2982423.60,2.53,3097.01

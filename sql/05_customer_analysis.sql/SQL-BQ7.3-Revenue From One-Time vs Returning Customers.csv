@@ -1,0 +1,3 @@
+customer_type,customer_count,total_revenue,revenue_percentage,avg_revenue_per_customer
+RETURNING,2615,102741185.40,87.27,39289.17
+ONE-TIME,1236,14983575.00,12.73,12122.63

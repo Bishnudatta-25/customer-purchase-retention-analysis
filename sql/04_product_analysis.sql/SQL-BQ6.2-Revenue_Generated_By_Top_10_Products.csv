@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,total_orders,total_revenue,total_quantity
+P005,"Laptop Air 14",Electronics,770,50009780.00,1090
+P001,"Smartphone X1",Electronics,713,21421425.00,993
+P014,"Air Fryer","Home & Kitchen",756,6021796.20,1092
+P013,"Mixer Grinder","Home & Kitchen",743,4371003.45,1055
+P003,"Bluetooth Speaker",Electronics,719,4078343.50,988
+P021,"Cricket Bat","Sports & Fitness",716,3789852.30,1030
+P002,"Wireless Earbuds Pro",Electronics,718,3365513.15,1043
+P009,"Running Shoes",Fashion,727,2885487.85,1044
+P012,"Non-stick Cookware Set","Home & Kitchen",738,2853398.55,1033
+P020,"Dumbbell Set","Sports & Fitness",739,2415533.40,1050

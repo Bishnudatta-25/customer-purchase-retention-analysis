@@ -1,0 +1,24 @@
+Product_ID,Product_Name,Category,total_orders,total_revenue,revenue_per_order,product_segment
+P005,"Laptop Air 14",Electronics,770,50009780.00,64947.77,"Core High-Value"
+P014,"Air Fryer","Home & Kitchen",756,6021796.20,7965.34,"Core High-Value"
+P013,"Mixer Grinder","Home & Kitchen",743,4371003.45,5882.91,"Core High-Value"
+P012,"Non-stick Cookware Set","Home & Kitchen",738,2853398.55,3866.39,"Core High-Value"
+P020,"Dumbbell Set","Sports & Fitness",739,2415533.40,3268.65,"Core High-Value"
+P006,"Gaming Mouse",Electronics,736,1776332.60,2413.50,Low-Value/Low-Volume
+P008,"Denim Jeans",Fashion,696,1756005.30,2523.00,Low-Value/Low-Volume
+P015,"LED Study Lamp","Home & Kitchen",716,937711.35,1309.65,Low-Value/Low-Volume
+P023,"Novel Collection",Books,711,789691.65,1110.68,Low-Value/Low-Volume
+P017,"Sunscreen SPF50","Beauty & Personal Care",729,657898.80,902.47,Low-Value/Low-Volume
+P016,"Face Wash","Beauty & Personal Care",704,363369.30,516.15,Low-Value/Low-Volume
+P001,"Smartphone X1",Electronics,713,21421425.00,30044.07,Premium/Niche
+P003,"Bluetooth Speaker",Electronics,719,4078343.50,5672.24,Premium/Niche
+P021,"Cricket Bat","Sports & Fitness",716,3789852.30,5293.09,Premium/Niche
+P002,"Wireless Earbuds Pro",Electronics,718,3365513.15,4687.34,Premium/Niche
+P009,"Running Shoes",Fashion,727,2885487.85,3969.03,Premium/Niche
+P004,"Power Bank 20000mAh",Electronics,735,1964817.10,2673.22,Premium/Niche
+P011,"Kurta Set",Fashion,737,1763020.00,2392.16,"Volume Product"
+P010,"Backpack 25L",Fashion,749,1598120.55,2133.67,"Volume Product"
+P018,Trimmer,"Beauty & Personal Care",745,1558945.05,2092.54,"Volume Product"
+P022,"Exam Preparation Set",Books,739,1276202.55,1726.93,"Volume Product"
+P019,"Yoga Mat","Sports & Fitness",737,1170883.45,1588.72,"Volume Product"
+P007,"Cotton T-Shirt",Fashion,766,899629.30,1174.45,"Volume Product"

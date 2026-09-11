@@ -1,0 +1,5 @@
+customer_segment,customer_count,total_revenue,revenue_percentage,avg_revenue_per_customer
+REGULAR,873,47030079.35,39.95,53871.80
+"OCCASIONAL REPEAT",1640,46275387.20,39.31,28216.70
+ONE-TIME,1236,14983575.00,12.73,12122.63
+"HIGHLY ENGAGED",102,9435718.85,8.02,92507.05
